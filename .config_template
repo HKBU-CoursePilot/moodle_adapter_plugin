@@ -1,0 +1,6 @@
+{
+    "module_name": "moodle_adapter_plugin",
+    "path": {
+        "data": "./project/data/moodle_adapter_plugin"
+    }
+}

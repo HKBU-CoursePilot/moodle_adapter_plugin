@@ -1,0 +1,5 @@
+version: 0.0.1
+folder_path: plugins/moodle_adapter_plugin
+type: plugin
+requirements: []
+repo_url: https://github.com/HKBU-CoursePilot/moodle_adapter_plugin.git
