@@ -1,0 +1,22 @@
+Lab 2: Control Flow Exercises
+=============================
+
+In this lab, you will practice using conditionals and loops.
+
+Exercise 1: Grade Calculator
+----------------------------
+Write a program that takes a score (0-100) and prints the grade:
+- A: 90-100
+- B: 80-89
+- C: 70-79
+- D: 60-69
+- F: below 60
+
+Exercise 2: Number Guessing Game
+--------------------------------
+Create a simple number guessing game where the user tries to guess
+a number between 1 and 10.
+
+Exercise 3: Multiplication Table
+--------------------------------
+Use a for loop to print the multiplication table for a given number.

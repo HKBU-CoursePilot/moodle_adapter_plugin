@@ -1,6 +1,16 @@
 {
     "module_name": "moodle_adapter_plugin",
-    "path": {
-        "data": "./project/data/moodle_adapter_plugin"
+    "adapter_mode": "stub",
+    "stub": {
+        "scenario": "demo_course"
+    },
+    "file": {
+        "courses_path": "project/data/courses"
+    },
+    "real": {
+        "api_base_url": "",
+        "api_token": "${MOODLE_API_TOKEN}",
+        "timeout": 30,
+        "cache_ttl": 3600
     }
 }

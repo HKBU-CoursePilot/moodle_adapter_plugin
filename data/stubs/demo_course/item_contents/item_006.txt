@@ -1,0 +1,38 @@
+Lecture 2: Control Flow
+=======================
+
+Topics Covered:
+- Conditional statements (if, elif, else)
+- Comparison operators
+- Logical operators
+- Loops (for, while)
+- Loop control (break, continue)
+
+If Statements
+-------------
+if condition:
+    # code block
+elif another_condition:
+    # code block
+else:
+    # code block
+
+For Loops
+---------
+for item in sequence:
+    # do something with item
+
+Example:
+for i in range(5):
+    print(i)  # prints 0, 1, 2, 3, 4
+
+While Loops
+-----------
+while condition:
+    # code block
+
+Example:
+count = 0
+while count < 5:
+    print(count)
+    count += 1

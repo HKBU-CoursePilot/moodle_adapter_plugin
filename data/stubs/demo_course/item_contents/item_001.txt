@@ -1,0 +1,38 @@
+Course Syllabus - COMP1001 Introduction to Computer Programming
+================================================================
+
+Course Code: COMP1001
+Course Name: Introduction to Computer Programming
+Instructor: Dr. Jane Smith
+Semester: 2024-25 Semester 1
+
+Course Description
+------------------
+This course introduces the fundamental concepts of computer programming using Python.
+Students will learn basic programming constructs including variables, control flow,
+functions, and data structures.
+
+Learning Outcomes
+-----------------
+Upon completion of this course, students will be able to:
+1. Write simple Python programs
+2. Understand and apply basic programming concepts
+3. Debug and test programs systematically
+4. Apply problem-solving skills to computational problems
+
+Assessment
+----------
+- Lab Exercises: 30%
+- Midterm Exam: 30%
+- Final Project: 40%
+
+Weekly Schedule
+---------------
+Week 1: Introduction to Python
+Week 2: Control Flow
+Week 3: Functions
+Week 4: Lists and Tuples
+Week 5: Dictionaries
+Week 6: File I/O
+Week 7: Midterm Review
+Week 8: Object-Oriented Programming Basics

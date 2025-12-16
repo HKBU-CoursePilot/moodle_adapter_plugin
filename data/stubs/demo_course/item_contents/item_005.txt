@@ -1,0 +1,16 @@
+Lab 1 Submission - Assignment Details
+======================================
+
+Due Date: September 15, 2024 at 11:59 PM
+
+Submission Requirements:
+- Submit a single Python file named "lab1_<student_id>.py"
+- Your program should print "Hello, World!" followed by your name
+- Include comments explaining your code
+
+Grading Rubric:
+- Correct output (5 points)
+- Code comments (3 points)
+- Proper file naming (2 points)
+
+Total: 10 points

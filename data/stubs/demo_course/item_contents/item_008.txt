@@ -1,0 +1,31 @@
+Lecture 3: Functions
+====================
+
+Topics Covered:
+- What are functions?
+- Defining functions
+- Parameters and arguments
+- Return values
+- Scope and local variables
+- Default arguments
+- Documentation strings
+
+Defining Functions
+------------------
+def function_name(parameters):
+    """Documentation string"""
+    # function body
+    return value
+
+Example:
+def greet(name):
+    """Return a greeting message."""
+    return f"Hello, {name}!"
+
+message = greet("Alice")
+print(message)  # Hello, Alice!
+
+Parameters vs Arguments
+-----------------------
+- Parameters: variables in the function definition
+- Arguments: actual values passed when calling the function

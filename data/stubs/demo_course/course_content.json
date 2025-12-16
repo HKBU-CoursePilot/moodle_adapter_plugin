@@ -1,0 +1,247 @@
+{
+  "course_id": "COMP1001-2024",
+  "sections": [
+    {
+      "id": "section_0",
+      "name": "General",
+      "summary": "Course-wide resources and announcements",
+      "position": 0,
+      "depth": 0,
+      "parent_id": null,
+      "is_visible": true,
+      "available_from": null,
+      "available_until": null,
+      "items": [
+        {
+          "id": "item_001",
+          "name": "Course Syllabus",
+          "item_type": "file",
+          "url": null,
+          "content": null,
+          "file_type": "pdf",
+          "due_date": null,
+          "metadata": { "pages": 5 },
+          "is_visible": true,
+          "available_from": null,
+          "available_until": null
+        },
+        {
+          "id": "item_002",
+          "name": "Python Official Docs",
+          "item_type": "url",
+          "url": "https://docs.python.org/3/",
+          "content": null,
+          "file_type": null,
+          "due_date": null,
+          "metadata": {},
+          "is_visible": true,
+          "available_from": null,
+          "available_until": null
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "id": "section_1",
+      "name": "Week 1: Introduction to Python",
+      "summary": "Getting started with Python programming",
+      "position": 1,
+      "depth": 0,
+      "parent_id": null,
+      "is_visible": true,
+      "available_from": null,
+      "available_until": null,
+      "items": [
+        {
+          "id": "item_003",
+          "name": "Lecture 1 Slides",
+          "item_type": "file",
+          "url": null,
+          "content": null,
+          "file_type": "pdf",
+          "due_date": null,
+          "metadata": { "pages": 45, "topics": ["variables", "data types", "operators"] },
+          "is_visible": true,
+          "available_from": null,
+          "available_until": null
+        }
+      ],
+      "subsections": [
+        {
+          "id": "section_1_1",
+          "name": "Lab Materials",
+          "summary": "",
+          "position": 0,
+          "depth": 1,
+          "parent_id": "section_1",
+          "is_visible": true,
+          "available_from": null,
+          "available_until": null,
+          "items": [
+            {
+              "id": "item_004",
+              "name": "Lab 1: Hello World",
+              "item_type": "page",
+              "url": null,
+              "content": null,
+              "file_type": null,
+              "due_date": null,
+              "metadata": {},
+              "is_visible": true,
+              "available_from": null,
+              "available_until": null
+            },
+            {
+              "id": "item_005",
+              "name": "Lab 1 Submission",
+              "item_type": "assignment",
+              "url": null,
+              "content": null,
+              "file_type": null,
+              "due_date": "2024-09-15T23:59:00Z",
+              "metadata": { "max_grade": 10 },
+              "is_visible": true,
+              "available_from": null,
+              "available_until": null
+            }
+          ],
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "id": "section_2",
+      "name": "Week 2: Control Flow",
+      "summary": "Conditionals and loops in Python",
+      "position": 2,
+      "depth": 0,
+      "parent_id": null,
+      "is_visible": true,
+      "available_from": "2024-09-09T00:00:00Z",
+      "available_until": null,
+      "items": [
+        {
+          "id": "item_006",
+          "name": "Lecture 2 Slides",
+          "item_type": "file",
+          "url": null,
+          "content": null,
+          "file_type": "pdf",
+          "due_date": null,
+          "metadata": { "pages": 52, "topics": ["if-else", "for loops", "while loops"] },
+          "is_visible": true,
+          "available_from": null,
+          "available_until": null
+        },
+        {
+          "id": "item_007",
+          "name": "Lab 2 Instructions",
+          "item_type": "page",
+          "url": null,
+          "content": null,
+          "file_type": null,
+          "due_date": null,
+          "metadata": {},
+          "is_visible": true,
+          "available_from": null,
+          "available_until": null
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "id": "section_3",
+      "name": "Week 3: Functions",
+      "summary": "Defining and using functions",
+      "position": 3,
+      "depth": 0,
+      "parent_id": null,
+      "is_visible": true,
+      "available_from": "2024-09-16T00:00:00Z",
+      "available_until": null,
+      "items": [
+        {
+          "id": "item_008",
+          "name": "Lecture 3 Slides",
+          "item_type": "file",
+          "url": null,
+          "content": null,
+          "file_type": "pdf",
+          "due_date": null,
+          "metadata": { "pages": 38 },
+          "is_visible": true,
+          "available_from": "2024-09-16T00:00:00Z",
+          "available_until": null
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "id": "section_4",
+      "name": "Week 4: Lists and Tuples",
+      "summary": "Working with sequences in Python",
+      "position": 4,
+      "depth": 0,
+      "parent_id": null,
+      "is_visible": false,
+      "available_from": "2024-09-23T00:00:00Z",
+      "available_until": null,
+      "items": [
+        {
+          "id": "item_009",
+          "name": "Lecture 4 Slides",
+          "item_type": "file",
+          "url": null,
+          "content": null,
+          "file_type": "pdf",
+          "due_date": null,
+          "metadata": { "pages": 42 },
+          "is_visible": true,
+          "available_from": null,
+          "available_until": null
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "id": "section_5",
+      "name": "Week 5: Dictionaries",
+      "summary": "Key-value data structures",
+      "position": 5,
+      "depth": 0,
+      "parent_id": null,
+      "is_visible": true,
+      "available_from": "2024-09-30T00:00:00Z",
+      "available_until": "2024-10-14T23:59:00Z",
+      "items": [
+        {
+          "id": "item_010",
+          "name": "Lecture 5 Slides",
+          "item_type": "file",
+          "url": null,
+          "content": null,
+          "file_type": "pdf",
+          "due_date": null,
+          "metadata": {},
+          "is_visible": true,
+          "available_from": null,
+          "available_until": null
+        },
+        {
+          "id": "item_011",
+          "name": "Hidden Practice Quiz",
+          "item_type": "quiz",
+          "url": null,
+          "content": null,
+          "file_type": null,
+          "due_date": "2024-10-07T23:59:00Z",
+          "metadata": { "max_grade": 20 },
+          "is_visible": false,
+          "available_from": null,
+          "available_until": null
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

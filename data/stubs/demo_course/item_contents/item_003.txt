@@ -1,0 +1,30 @@
+Lecture 1: Introduction to Python
+==================================
+
+Topics Covered:
+- What is programming?
+- Why Python?
+- Setting up the development environment
+- Variables and data types
+- Basic operators
+- Your first Python program
+
+Variables
+---------
+Variables are containers for storing data values.
+Example:
+    x = 5
+    name = "Alice"
+
+Data Types
+----------
+- int: Integer numbers (1, 2, 3)
+- float: Decimal numbers (3.14, 2.5)
+- str: Text strings ("hello", "world")
+- bool: Boolean values (True, False)
+
+Operators
+---------
+Arithmetic: +, -, *, /, //, %, **
+Comparison: ==, !=, <, >, <=, >=
+Logical: and, or, not

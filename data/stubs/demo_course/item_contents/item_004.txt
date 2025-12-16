@@ -1,0 +1,23 @@
+Lab 1: Hello World
+==================
+
+In this lab, you will write your first Python program.
+
+Objectives:
+- Set up Python development environment
+- Write and run a simple "Hello, World!" program
+- Understand basic print() function usage
+
+Instructions:
+1. Open your Python IDE or terminal
+2. Create a new file called hello.py
+3. Type: print("Hello, World!")
+4. Run the program and verify the output
+
+Expected Output:
+Hello, World!
+
+Extension Tasks:
+- Modify the program to print your name
+- Try printing multiple lines
+- Experiment with different text inside the quotes

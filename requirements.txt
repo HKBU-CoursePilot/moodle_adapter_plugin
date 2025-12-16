@@ -1,0 +1,5 @@
+# PyPI dependencies for moodle_adapter_plugin
+# Note: ADHD framework modules are listed in init.yaml, not here
+
+# PyYAML for file adapter's _meta.yaml parsing
+PyYAML>=6.0
